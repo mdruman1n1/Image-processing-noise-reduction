@@ -171,5 +171,5 @@ Machine-Sensing-Image-Processing
 ## Author
 
 Ruman Mohammad
-Electronics and Communications Engineering Student
+Electronics and Electrical Engineering Student
 University of Greenwich
